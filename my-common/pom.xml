@@ -4,23 +4,19 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example</groupId>
-    <artifactId>myArc</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>my-common</artifactId>
+    <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>my-web</module>
-        <module>my-common</module>
-    </modules>
     <!-- TODO project name  -->
-    <name>my-parents</name>
-    <description>web application with architecture</description>
+    <name>my-common</name>
+    <description></description>
 
-    <!--	&lt;!&ndash; TODO-->
-    <organization>
-        <name>Yansen.Ma</name>
-        <url>https://monkeykingyan.github.io/myBlog/</url>
-    </organization>
-    <!--	&ndash;&gt;-->
+    <!-- TODO
+        <organization>
+        <name>company name</name>
+        <url>company url</url>
+        </organization>
+    -->
 
     <licenses>
         <license>
